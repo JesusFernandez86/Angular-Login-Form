@@ -1,5 +1,7 @@
 # Login
 
+Sample of a login form in Angular CLI connected to Firebase database. Using FormControls and validators from Angular Material
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.20.
 
 ## Development server
